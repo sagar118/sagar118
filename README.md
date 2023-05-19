@@ -16,11 +16,11 @@
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to MLOps](https://sagarthacker.com/posts/mlops/introduction.html)
 - [EDA - Playground Series Season 3, Episode 4](https://sagarthacker.com/posts/kaggle/pss3e3-eda.html)
 - [Modeling - Playground Series Season 3, Episode 4](https://sagarthacker.com/posts/kaggle/pss3e4-ensemble-model.html)
 - [Movie Lens - Collaborative Filtering based Recommendation System](https://sagarthacker.com/posts/spark/movielens.html)
 - [Song Popularity EDA](https://sagarthacker.com/posts/kaggle/song-popularity-eda.html)
-- [Text Preprocessing](https://sagarthacker.com/posts/nlp/text-preprocessing.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
