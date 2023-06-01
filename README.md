@@ -16,11 +16,11 @@
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MLflow on AWS](https://sagarthacker.com/posts/mlops/mlflow_on_aws.html)
 - [Introduction to MLflow](https://sagarthacker.com/posts/mlops/mlflow.html)
 - [AWS Instance Setup](https://sagarthacker.com/posts/mlops/aws_setup.html)
 - [Introduction to MLOps](https://sagarthacker.com/posts/mlops/introduction.html)
 - [EDA - Playground Series Season 3, Episode 4](https://sagarthacker.com/posts/kaggle/pss3e3-eda.html)
-- [Modeling - Playground Series Season 3, Episode 4](https://sagarthacker.com/posts/kaggle/pss3e4-ensemble-model.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
