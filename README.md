@@ -16,11 +16,11 @@
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deployment of Dockerized ML Models with AWS Kinesis and Lambda](https://sagarthacker.com/posts/mlops/aws-deployment-lambda-kinesis.html)
 - [Prefect Cloud Deployment](https://sagarthacker.com/posts/mlops/prefect-cloud.html)
 - [Prefect Deployment](https://sagarthacker.com/posts/mlops/prefect-deployment.html)
 - [Prefect Blocks](https://sagarthacker.com/posts/mlops/prefect-blocks.html)
 - [Prefect: An Workflow Orchestration Tool](https://sagarthacker.com/posts/mlops/intro_workflow_orchestration.html)
-- [MLflow on AWS](https://sagarthacker.com/posts/mlops/mlflow_on_aws.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
