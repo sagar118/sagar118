@@ -16,7 +16,7 @@
 
 ### 📘 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Deployment of ML models on Hugging Face Spaces](https://sagarthacker.com/posts/mlops/gradio-deployment.html)
+- [Deployment of ML models on Hugging Face Spaces](https://sagarthacker.com/posts/mlops/ml-deployment-gradio-huggingface-spaces.html)
 - [Deployment of Dockerized ML Models with AWS Kinesis and Lambda](https://sagarthacker.com/posts/mlops/aws-deployment-lambda-kinesis.html)
 - [Prefect Cloud Deployment](https://sagarthacker.com/posts/mlops/prefect-cloud.html)
 - [Prefect Deployment](https://sagarthacker.com/posts/mlops/prefect-deployment.html)
